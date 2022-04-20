@@ -224,6 +224,7 @@ a.contactinfo {
 }
 .bottom-navigate ul li a {
     color: #111;
+    font-size: 26px;
 }
 .bottom-navigate {
     height: 62px;
