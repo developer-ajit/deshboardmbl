@@ -299,3 +299,14 @@ a.product_content:first-child {
 a.product_content:last-child {
     border-right: none;
 }
+@media (max-width:499px) {
+    .fixwidth{
+        max-width: 100%;
+    }
+    .bottom-navigate ul {
+        max-width: 100%;
+    }
+    .addimgcontent {
+        width: 89%;
+    }
+}
