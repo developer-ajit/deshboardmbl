@@ -310,6 +310,10 @@ a.product_content:last-child {
         width: 89%;
     }
     .righttext h4 {
-        font-size: 17px;
+        font-size: 14px;
+    }
+    .contactlistright {
+  
+        font-size: 13px;
     }
 }
